@@ -2,6 +2,7 @@ import React from 'react'
 
 export const Header = () => {
   return (
-    <div>headerです</div>
+    <div>header部分です(テスト)</div>
   )
 }
+
